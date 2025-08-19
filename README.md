@@ -10,9 +10,8 @@
 
 ## Integrantes:
 
-<div>
-   <a>Adrielyson Barbosa - RA: 79092</a>
-   <a>Matheus Vieira Batista Neves - RA: 79027</a>
-   <a>Raissa Carvalho - RA: 82612</a>
-   <a>Gustavo Cardoso Vieira da Cruz - RA: 70049</a>
-</div>
+<div><a>Adrielyson Barbosa - RA: 79092</a></div>
+<div><a>Matheus Vieira Batista Neves - RA: 79027</a></div>
+<div> <a>Raissa Carvalho - RA: 82612</a></div>
+<div><a>Gustavo Cardoso Vieira da Cruz - RA: 70049</a></div>
+
